@@ -65,5 +65,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 ### 🔗 Connect with Me
 - GitHub: [ioulasri](https://github.com/ioulasri)
-- Gmail: [imad](imad.oulasri01@gmail.com)
+- Gmail: imad.oulasri01@gmail.com
 
